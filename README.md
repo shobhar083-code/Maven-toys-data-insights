@@ -1,4 +1,4 @@
-# Maven Toys Excel Dashboard
+# Maven Toys Data analysis using Excel
 
 This project demonstrates my proficiency in using **Microsoft Excel** for data cleaning, analysis, and visualization. The goal was to transform a raw, unorganized sales dataset from a fictional company, **Maven Toys**, into actionable business insights.
 
